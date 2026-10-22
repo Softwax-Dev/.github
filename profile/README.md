@@ -9,7 +9,7 @@ Welcome to **Softwax Unified Solutions**, a Ugandan technology company committed
 We believe technology should solve real problems, simplify operations, improve productivity, and create opportunities for growth. Our approach combines software engineering, thoughtful design, reliable infrastructure, and continuous technical support to deliver solutions that address each client's unique needs.
 
 🌐 **Website:** [softwax.org](https://softwax.org)  
-📍 **Location:** Uganda, East Africa  
+📍 **Location:** Kampala,Uganda, East Africa  
 ✉️ **Email:** [info@softwax.org](mailto:info@softwax.org)
 
 ---
